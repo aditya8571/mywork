@@ -298,8 +298,6 @@ void intro()
 cout<<"\n \t BANK ";
 cout<<"\n \t MANAGEMENT";
 cout<<"\n \t SYSTEM";
-cout<<"\n \n MADE BY :-PIYUSH ANAND";
-cout<<"\n SCHOOL NAME :- KENDRIYA VIDYALAYA NO 2 AMBALA (AFS)";
 
 };
 }		 //end of project
